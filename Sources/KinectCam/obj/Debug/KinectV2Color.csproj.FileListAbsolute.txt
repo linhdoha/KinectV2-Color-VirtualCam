@@ -1,0 +1,17 @@
+D:\KinectV2Color\install.bat
+D:\KinectV2Color\uninstall.bat
+D:\KinectV2Color\KinectV2Color.dll.config
+D:\KinectV2Color\KinectV2Color.dll
+D:\KinectV2Color\KinectV2Color.pdb
+D:\GitHub\KinectCamV2\Sources\KinectCam\obj\Debug\KinectCam.AboutForm.resources
+D:\GitHub\KinectCamV2\Sources\KinectCam\obj\Debug\KinectV2Color.Properties.Resources.resources
+D:\GitHub\KinectCamV2\Sources\KinectCam\obj\Debug\KinectV2Color.csproj.GenerateResource.Cache
+D:\GitHub\KinectCamV2\Sources\KinectCam\obj\Debug\KinectV2Color.dll
+D:\GitHub\KinectCamV2\Sources\KinectCam\obj\Debug\KinectV2Color.pdb
+D:\GitHub\KinectCamV2\Sources\KinectCam\obj\Debug\KinectV2Color.csprojResolveAssemblyReference.cache
+D:\GitHub\KinectV2-Color-VirtualCam\Sources\KinectCam\obj\Debug\KinectV2Color.csprojResolveAssemblyReference.cache
+D:\GitHub\KinectV2-Color-VirtualCam\Sources\KinectCam\obj\Debug\KinectCam.AboutForm.resources
+D:\GitHub\KinectV2-Color-VirtualCam\Sources\KinectCam\obj\Debug\KinectV2Color.Properties.Resources.resources
+D:\GitHub\KinectV2-Color-VirtualCam\Sources\KinectCam\obj\Debug\KinectV2Color.csproj.GenerateResource.Cache
+D:\GitHub\KinectV2-Color-VirtualCam\Sources\KinectCam\obj\Debug\KinectV2Color.dll
+D:\GitHub\KinectV2-Color-VirtualCam\Sources\KinectCam\obj\Debug\KinectV2Color.pdb
